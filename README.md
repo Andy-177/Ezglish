@@ -11,5 +11,9 @@ Ezglish会自动生成下面的配置文件：
 dictionary_path是单词表的路径，建议直接放在Ezglish的根目录下
 
 num_worlds是每轮共要背多少单词，建议10~15个
+# 单词表
+原作者：`https://github.com/KyleBing/english-vocabulary`
+
+Fork:`https://github.com/Andy-177/english-vocabulary`
 # 未来可能添加的功能
 - [x] 自定义单词分数上限
